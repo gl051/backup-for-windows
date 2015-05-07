@@ -1,4 +1,4 @@
-ECHO off
+@ECHO off
 
 :: Set your list of source and target folders, 
 :: per each tuple (src,trg) you will need a robocopy command below
